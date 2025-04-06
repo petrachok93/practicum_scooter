@@ -1,5 +1,5 @@
 import sender_requests as req
-
+# Татьяна Петракова, 28-я когорта — Финальный проект. Инженер по тестированию плюс
 order_data = {
     "firstName": "Тест",
     "lastName": "Тестов",

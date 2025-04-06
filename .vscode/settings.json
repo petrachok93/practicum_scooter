@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "api_test_get_order_data_by_track"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
